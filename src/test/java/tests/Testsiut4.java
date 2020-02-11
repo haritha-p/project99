@@ -8,7 +8,7 @@ public class Testsiut4 {
 
 	@Test
 	public void test() {
-		System.out.println("test");	
+		System.out.println("test1");	
 		}
 
 }
